@@ -1,0 +1,15 @@
+Data at node 12 :
+The finger table of node 12 :
+0 0 0 0 0 
+Data at node 9 :
+The finger table of node 9 :
+0 0 0 0 0 
+Data at node 7 :
+CSCI319
+The finger table of node 7 :
+0 0 0 0 0 
+Data at node 0 :
+CSCI319
+Markus Hagenbuchner
+The finger table of node 0 :
+0 0 0 0 0 
